@@ -14,7 +14,7 @@ const page = () => {
 
     <div>
       <Head>
-        <title>AI Mock Interview</title>
+        <title>Zeko Interview</title>
         <meta
           name="description"
           content="Ace your next interview with AI-powered mock interviews"
